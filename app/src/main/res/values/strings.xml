@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bonaccorso Salvatore</string>
+    <string name="Username">cognome.nome</string>
+    <string name="Password">DDMMYYYY</string>
+    <string name="Title">Sistema informativo Steve Jobs</string>
+    <string name="text">text</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="student_1">ARDENTI ANDREA ROBERTO</string>
+    <string name="student_3">BIZZINI GIULIO</string>
+    <string name="student_7">CARFì IRENE ROSARIA</string>
+    <string name="student_9">CORSARO ANGELO</string>
+    <string name="student_11">FRAZZETTO FRANCESCO</string>
+    <string name="student_13">GIMBO MARCO PLACIDO</string>
+    <string name="student_15">MARCHESE GIUSEPPE</string>
+    <string name="student_17">PRIVITERA GIUSEPPE</string>
+    <string name="student_19">VIAVATTENE ANGELO</string>
+    <string name="error_text">Il campo username è vuoto</string>
+    <string name="error">I dati inseriti non sono validi</string>
+    <string name="item_student">BENVENUTO</string>
+    <string name="Succesful_text">Sei il numero 1 !</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
